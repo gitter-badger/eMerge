@@ -2,6 +2,8 @@
 
 ### What it does
 
+[![Join the chat at https://gitter.im/relisher/eMerge](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/relisher/eMerge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Sociable lets you add new friends on Facebook instantly with just a photo. It integrates Facebook Login, Facebook Web API, and Kairos facial recognition to provide a smooth yet exhilarating experience.
 
 Find the app at this link:
